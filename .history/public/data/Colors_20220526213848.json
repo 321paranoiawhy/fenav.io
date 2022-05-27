@@ -1,0 +1,26 @@
+[
+    {
+        "img_src":"Paletton",
+        "url":"https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF",
+        "name":"Paletton",
+        "description":"CSS tricks web developers need to know."
+    },
+    {
+        "img_src":"BrandColors",
+        "url":"http://brandcolors.net/",
+        "name":"Brand Colors",
+        "description":"The biggest collection of official brand color codes around. Curated by @brandcolors and friends."
+    },
+    {
+        "img_src":"",
+        "url":"https://hypercolor.dev/",
+        "name":"Hyper Color",
+        "description":"A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image."
+    },
+    {
+        "img_src":"fontspace-logo-white-text",
+        "url":"https://www.fontspace.com/",
+        "name":"Font Space",
+        "description":"Free downloads of legally licensed fonts that are perfect for your design projects."
+    }
+]

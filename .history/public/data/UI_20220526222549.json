@@ -1,0 +1,62 @@
+[
+    {
+        "img_src":"",
+        "url":"https://www.awwwards.com/",
+        "name":"Awwwards",
+        "description":"The awards of design, creativity and innovation on the internet."
+    },
+    {
+        "img_src":"",
+        "url":"https://www.checklist.design/",
+        "name":"Checklist Design",
+        "description":"Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets."
+    },
+    {
+        "img_src":"WebGradients",
+        "url":"https://webgradients.com/",
+        "name":"WebGradients",
+        "description":"WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website."
+    },
+    {
+        "img_src":"",
+        "url":"https://dribbble.com/",
+        "name":"Dribble",
+        "description":"Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals."
+    },
+    {
+        "img_src":"",
+        "url":"https://webframe.xyz/",
+        "name":"Webframe",
+        "description":"A showcase of beautiful and well designed web app screens for design inspiration. Including screens from behind signup/paywalls!"
+    },
+    {
+        "img_src":"spline_logo",
+        "url":"https://spline.design/",
+        "name":"Splinee",
+        "description":"Spline, a place to design and collaborate in 3D."
+    },
+    {
+        "img_src":"",
+        "url":"https://app.typeanything.io/",
+        "name":"Type Anything",
+        "description":"Type Anything lets you customize the most necessary font settings for your next project. From font families and letter spacing to font weights."
+    },
+    {
+        "img_src":"",
+        "url":"https://lawsofux.com/",
+        "name":"Laws of UX",
+        "description":"Laws of UX is a collection of best practices that designers can consider when building user interfaces."
+    },
+    {
+        "img_src":"screenlane",
+        "url":"https://screenlane.com/",
+        "name":"Screelane",
+        "description":"The latest mobile UI design inspiration in your inbox every week, for free."
+    },
+    {
+        "img_src":"screenlane",
+        "url":"https://screenlane.com/",
+        "name":"Screelane",
+        "description":"The latest mobile UI design inspiration in your inbox every week, for free."
+    }
+]

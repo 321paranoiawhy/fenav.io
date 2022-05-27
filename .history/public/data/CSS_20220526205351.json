@@ -1,0 +1,20 @@
+[
+    {
+        "img_src":"LearnCSSGridFavicon",
+        "url":"https://html.spec.whatwg.org/",
+        "name":"WHATWG",
+        "description":"The current HTML standard which obsoletes all other previously-published HTML specifications."
+    },
+    {
+        "img_src":"",
+        "url":"https://www.w3.org/html/ig/zh/wiki/HTML5",
+        "name":"HTML5 (W3C)",
+        "description":"本规范仅限于提供编写用户体验良好的, 静态或动态的, 语义化的标记语言和相关脚本API的指导。"
+    },
+    {
+        "img_src":"",
+        "url":"https://sketch2code.azurewebsites.net/",
+        "name":"Sketch2Code",
+        "description":"Transform any hand-drawn design into a HTML code with AI."
+    }
+]

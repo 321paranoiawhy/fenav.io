@@ -1,0 +1,20 @@
+[
+    {
+        "img_src":"",
+        "url":"https://github.com/QiShaoXuan/css_tricks",
+        "name":".CSS {TRICKS}",
+        "description":"A modern responsive front-end framework based on Material Design."
+    },
+    {
+        "img_src":"ColorJS",
+        "url":"https://colorjs.io/",
+        "name":"Color.js",
+        "description":"Color.js is a JavaScript library for color manipulation."
+    },
+    {
+        "img_src":"",
+        "url":"https://marcbruederlin.github.io/particles.js/",
+        "name":"particles.jss",
+        "description":"Particles.js is a lightweight, dependency-free and responsive javascript plugin for particle backgrounds."
+    }
+]

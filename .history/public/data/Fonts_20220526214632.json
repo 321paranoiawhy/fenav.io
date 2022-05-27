@@ -1,0 +1,20 @@
+[
+    {
+        "img_src":"SimpleIconsGooglefonts",
+        "url":"https://fonts.google.com/",
+        "name":"Google Fonts",
+        "description":"Google Fonts is a library of 1,394 open source font families and APIs for convenient use via CSS and Android."
+    },
+    {
+        "img_src":"MyFonts_Logo_C_RGB_by_Monotype",
+        "url":"https://www.myfonts.com/",
+        "name":"MyFonts",
+        "description":"MyFonts offers the largest selection of professional fonts for any project. Over 130,000 available fonts, and counting."
+    },
+    {
+        "img_src":"fontspace-logo-white-text",
+        "url":"https://www.fontspace.com/",
+        "name":"Font Space",
+        "description":"MyFonts offers the largest selection of professional fonts for any project. Over 130,000 available fonts, and counting."
+    }
+]

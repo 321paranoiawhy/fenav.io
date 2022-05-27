@@ -1,0 +1,110 @@
+[
+    {
+        "img_src":"LearnCSSGridFavicon",
+        "url":"https://learncssgrid.com/",
+        "name":"Learn CSS Grid",
+        "description":"A powerful tool that allows for two-dimensional layouts to be created on the web and was created as a resource to help developers better understand and learn Grid."
+    },
+    {
+        "img_src":"CSSGridGenerator",
+        "url":"https://cssgrid-generator.netlify.app/",
+        "name":"CSS Grid generator",
+        "description":"A way for people to use CSS Grid features quickly to create dynamic layouts."
+    },
+    {
+        "img_src":"CSSTricksLogo",
+        "url":"https://css-tricks.com/",
+        "name":"CSS Tricks",
+        "description":"This website shows how to use CSS elegantly and efficiently."
+    },
+    {
+        "img_src":"css-reference-icon",
+        "url":"https://cssreference.io/",
+        "name":"CSS Reference",
+        "description":"Learn by example: this website is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples."
+    },
+    {
+        "img_src":"",
+        "url":"https://gridbyexample.com/",
+        "name":"Grid by Example",
+        "description":"This site is a collection of examples, video and other information to help you learn CSS Grid Layout."
+    },
+    {
+        "img_src":"",
+        "url":"http://howtocenterincss.com/",
+        "name":"How to Center in CSS",
+        "description":"This website consolidates ways to center in CSS and generates the code for each situation."
+    },
+    {
+        "img_src":"",
+        "url":"https://specifishity.com/",
+        "name":"CSS specifishity",
+        "description":"Specify the priority of CSS selectors using pictures with plankton, fish and sharks."
+    },
+    {
+        "img_src":"",
+        "url":"https://getcssscan.com/css-box-shadow-examples",
+        "name":"Beautiful CSS box-shadow examples",
+        "description":"A curated collection of 93 free box-shadow examples from some of the most beautiful websites on the internet."
+    },
+    {
+        "img_src":"animista-logo-small",
+        "url":"https://animista.net/",
+        "name":"Animista",
+        "description":"Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use."
+    },
+    {
+        "img_src":"",
+        "url":"https://csslayout.io/",
+        "name":"CSS Layout",
+        "description":"Popular layouts and patterns made with CSS only."
+    },
+    {
+        "img_src":"CSSScanLogo",
+        "url":"https://getcssscan.com/",
+        "name":"CSS Scan",
+        "description":"The fastest and easiest way to check, copy and edit CSS."
+    },
+    {
+        "img_src":"getwaves",
+        "url":"https://getwaves.io/",
+        "name":"Get Waves",
+        "description":"A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!"
+    },
+    {
+        "img_src":"ResponsivelyLogo",
+        "url":"https://responsively.app/",
+        "name":"Responsively App",
+        "description":"A must-have dev-tool that aids faster and precise responsive web development."
+    },
+    {
+        "img_src":"UnusedCSSLogo",
+        "url":"https://unused-css.com/",
+        "name":"Unused CSS",
+        "description":"Unused CSS is an online tool to remove unused CSS rules. It will check your pages, find unused CSS and let you download a clean CSS file."
+    },
+    {
+        "img_src":"CSSGradientLogo",
+        "url":"https://cssgradient.io/",
+        "name":"CSS Gradient",
+        "description":"CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites."
+    },
+    {
+        "img_src":"WebGradients",
+        "url":"https://webgradients.com/",
+        "name":"Web Gradient",
+        "description":"WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website."
+    },
+    {
+        "img_src":"AnimateLogo",
+        "url":"https://animate.style/",
+        "name":"Animate.css",
+        "description":"Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects."
+    },
+    {
+        "img_src":"",
+        "url":"https://www.toptal.com/developers/cssminifier/",
+        "name":"CSS Minifier",
+        "description":"Animate.css is a library of ready-to-use, cross-browser animations for you to use in your projects."
+    }
+]

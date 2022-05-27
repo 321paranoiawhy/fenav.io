@@ -1,0 +1,26 @@
+[
+    {
+        "img_src":"",
+        "url":"https://github.com/QiShaoXuan/css_tricks",
+        "name":".CSS {TRICKS}",
+        "description":"Some CSS tricks."
+    },
+    {
+        "img_src":"CSSInspiration",
+        "url":"https://github.com/chokcoco/CSS-Inspiration",
+        "name":"CSS Inspiration",
+        "description":"使用或学习 CSS 的灵感。"
+    },
+    {
+        "img_src":"YouNeedToKnowCSS",
+        "url":"https://github.com/l-hammer/You-need-to-know-css",
+        "name":"You Need to Know CSS",
+        "description":"CSS tricks web developers need to know."
+    },
+    {
+        "img_src":"fontspace-logo-white-text",
+        "url":"https://www.fontspace.com/",
+        "name":"You Need to Know CSS",
+        "description":"CSS tricks web developers need to know."
+    }
+]

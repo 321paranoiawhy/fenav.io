@@ -1,0 +1,26 @@
+[
+    {
+        "img_src":"LearnCSSGridFavicon",
+        "url":"https://learncssgrid.com/",
+        "name":"Learn CSS Grid",
+        "description":"A powerful tool that allows for two-dimensional layouts to be created on the web and was created as a resource to help developers better understand and learn Grid."
+    },
+    {
+        "img_src":"CSSGridGenerator",
+        "url":"https://cssgrid-generator.netlify.app/",
+        "name":"CSS Grid generator",
+        "description":"A way for people to use CSS Grid features quickly to create dynamic layouts."
+    },
+    {
+        "img_src":"CSSTricksLogo",
+        "url":"https://css-tricks.com/",
+        "name":"CSS Tricks",
+        "description":"This website shows how to use CSS elegantly and efficiently."
+    },
+    {
+        "img_src":"css-reference-icon",
+        "url":"https://cssreference.io/",
+        "name":"CSS Reference",
+        "description":"This website shows how to use CSS elegantly and efficiently."
+    }
+]

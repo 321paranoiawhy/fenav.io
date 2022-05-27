@@ -1,0 +1,20 @@
+[
+    {
+        "img_src":"blobmaker",
+        "url":"https://www.blobmaker.app/",
+        "name":"Blobmaker",
+        "description":"Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes."
+    },
+    {
+        "img_src":"getwaves",
+        "url":"https://getwaves.io/",
+        "name":"Get Waves",
+        "description":"A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!."
+    },
+    {
+        "img_src":"haikei",
+        "url":"https://getwaves.io/",
+        "name":"Get Waves",
+        "description":"A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!."
+    }
+]

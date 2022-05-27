@@ -1,0 +1,44 @@
+[
+    {
+        "img_src":"CodeGuide",
+        "url":"https://codeguide.bootcss.com/",
+        "name":"Code Guide",
+        "description":"编写一致、灵活和可持续的 HTML 和 CSS 代码的规范。"
+    },
+    {
+        "img_src":"SimpleIconsLeetcode",
+        "url":"https://leetcode.com/",
+        "name":"LeetCode",
+        "description":"LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews."
+    },
+    {
+        "img_src":"LintCode",
+        "url":"https://leetcode.com/",
+        "name":"Lint Code",
+        "description":"Powerful coding training system. LintCode has the most interview problems covering Google, Facebook, Linkedin, Amazon, Microsoft and so on."
+    },
+    {
+        "img_src":"hihoCoder",
+        "url":"https://hihocoder.com/",
+        "name":"hihoCoder",
+        "description":"Learn and practise, compete and make Friends, stand out and get hired."
+    },
+    {
+        "img_src":"",
+        "url":"https://www.crackingthecodinginterview.com/",
+        "name":"CC 150",
+        "description":"《Cracking the Coding Interview: 150 Programming Interview Questions and Solutions》"
+    },
+    {
+        "img_src":"topcoder-wipro",
+        "url":"https://www.topcoder.com/",
+        "name":"Topcoder",
+        "description":"Topcoder is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers."
+    },
+    {
+        "img_src":"AtCoder",
+        "url":"https://atcoder.jp/",
+        "name":"AtCoder",
+        "description":"AtCoder is a programming contest site for anyone from beginners to experts. We hold weekly programming contests online."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "img_src":"Paletton",
+        "url":"https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF",
+        "name":"Paletton",
+        "description":"CSS tricks web developers need to know."
+    },
+    {
+        "img_src":"BrandColors",
+        "url":"http://brandcolors.net/",
+        "name":"Brand Colors",
+        "description":"The biggest collection of official brand color codes around. Curated by @brandcolors and friends."
+    },
+    {
+        "img_src":"",
+        "url":"https://hypercolor.dev/",
+        "name":"Hyper Color",
+        "description":"A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image."
+    },
+    {
+        "img_src":"",
+        "url":"http://zhongguose.com/",
+        "name":"中国色",
+        "description":"This website gives many colors named by Chinese with their CMYK, RGB and HEX."
+    },
+    {
+        "img_src":"ColorHexa",
+        "url":"https://www.colorhexa.com/",
+        "name":"Color Hexa",
+        "description":"Color encyclopedia : Information and conversion."
+    },
+    {
+        "img_src":"",
+        "url":"https://colorhunt.co/",
+        "name":"Color Hunt",
+        "description":"Color Hunt is an open collection of beautiful color palettes, created by Gal Shir. Color Hunt was created with the goal of celebrating the beauty of colors, and to serve as a go-to resource for color inspiration."
+    },
+    {
+        "img_src":"",
+        "url":"https://coolors.co/",
+        "name":"Coolors.co",
+        "description":"The super fast color palettes generator: create the perfect platte or get inspired by thousands of beautiful color schemes."
+    },
+    {
+        "img_src":"",
+        "url":"https://uigradients.com/#Magic",
+        "name":"uiGradients",
+        "description":"A handpicked collection of beautiful color gradients for designers and developers."
+    },
+    {
+        "img_src":"",
+        "url":"https://mycolor.space/",
+        "name":"Color Space",
+        "description":"Never waste Hours on finding the perfect Color Palette again! JUST ENTER A COLOR! And Generate nice Color Palettes."
+    },
+    {
+        "img_src":"",
+        "url":"https://gradienthunt.com/",
+        "name":"Gradient Hunt",
+        "description":"Gradient Hunt is a free and open platform for color inspiration with thousands of trendy hand-made color gradients."
+    },
+    {
+        "img_src":"",
+        "url":"https://gradienthunt.com/",
+        "name":"Gradient Hunt",
+        "description":"Gradient Hunt is a free and open platform for color inspiration with thousands of trendy hand-made color gradients."
+    }
+]

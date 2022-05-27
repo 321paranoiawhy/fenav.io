@@ -1,0 +1,20 @@
+[
+    {
+        "img_src":"/Materialize",
+        "url":"https://materializecss.com/",
+        "name":"Materialize",
+        "description":"A modern responsive front-end framework based on Material Design."
+    },
+    {
+        "img_src":"ColorJS",
+        "url":"https://colorjs.io/",
+        "name":"Color.js",
+        "description":"Visualising data structures and algorithms through animation."
+    },
+    {
+        "img_src":"",
+        "url":"https://github.com/skidding/illustrated-algorithms",
+        "name":"Illustrated Algorithms",
+        "description":"Inspired by Grokking Algorithms and python-execution-trace, this project aims to reveal the mechanics behind algorithms via interactive visualizations of their execution."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "img_src":"Paletton",
+        "url":"https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF",
+        "name":"Paletton",
+        "description":"CSS tricks web developers need to know."
+    },
+    {
+        "img_src":"BrandColors",
+        "url":"http://brandcolors.net/",
+        "name":"Brand Colors",
+        "description":"使用或学习 CSS 的灵感。"
+    },
+    {
+        "img_src":"YouNeedToKnowCSS",
+        "url":"https://github.com/l-hammer/You-need-to-know-css",
+        "name":"You Need to Know CSS",
+        "description":"CSS tricks web developers need to know."
+    },
+    {
+        "img_src":"fontspace-logo-white-text",
+        "url":"https://www.fontspace.com/",
+        "name":"Font Space",
+        "description":"Free downloads of legally licensed fonts that are perfect for your design projects."
+    }
+]

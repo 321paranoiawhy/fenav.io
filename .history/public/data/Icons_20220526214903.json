@@ -1,0 +1,26 @@
+[
+    {
+        "img_src":"",
+        "url":"https://fonts.google.com/icons?selected=Material+Icons",
+        "name":"Google Material Design Icons",
+        "description":"Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics."
+    },
+    {
+        "img_src":"",
+        "url":"https://icones.js.org/",
+        "name":"Icones",
+        "description":"Icon Explorer with Instant searching, powered by Iconify."
+    },
+    {
+        "img_src":"",
+        "url":"https://fontisto.com/",
+        "name":"Fontisto",
+        "description":"Fontisto the iconic font and css toolkit · 616+ free icons."
+    },
+    {
+        "img_src":"",
+        "url":"https://fontisto.com/",
+        "name":"Fontisto",
+        "description":"Fontisto the iconic font and css toolkit · 616+ free icons."
+    }
+]

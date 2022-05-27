@@ -1,0 +1,14 @@
+[
+    {
+        "img_src":"ECMA",
+        "url":"https://www.ecma-international.org/technical-committees/tc39/?tab=published-standards",
+        "name":"ECMA-262",
+        "description":"ECMA-262 (ECMAScript) is published standards by TC39."
+    },
+    {
+        "img_src":"CodeToGo",
+        "url":"https://codetogo.io/",
+        "name":"ECMA-262",
+        "description":"ECMA-262 (ECMAScript) is published standards by TC39."
+    }
+]
