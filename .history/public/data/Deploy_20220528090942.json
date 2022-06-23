@@ -1,0 +1,14 @@
+[
+    {
+        "img_src":"",
+        "url":"https://www.netlify.com/",
+        "name":"Netlify",
+        "description":"The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web."
+    },
+    {
+        "img_src":"",
+        "url":"https://vercel.com/",
+        "name":"Vercel",
+        "description":"The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web."
+    }
+]

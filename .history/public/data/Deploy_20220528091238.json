@@ -1,0 +1,20 @@
+[
+    {
+        "img_src":"",
+        "url":"https://www.netlify.com/",
+        "name":"Netlify",
+        "description":"The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web."
+    },
+    {
+        "img_src":"",
+        "url":"https://vercel.com/",
+        "name":"Vercel",
+        "description":"Vercel combines the best developer experience with an obsessive focus on end-user performance.Our platform enables frontend teams to do their best work."
+    },
+    {
+        "img_src":"",
+        "url":"https://www.jenkins.io/",
+        "name":"Vercel",
+        "description":"Vercel combines the best developer experience with an obsessive focus on end-user performance.Our platform enables frontend teams to do their best work."
+    }
+]

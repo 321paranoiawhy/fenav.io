@@ -128,13 +128,7 @@
     {
         "img_src": "",
         "url": "https://ionic.io/ionicons",
-        "name": "ionicons",
+        "name": "CSS Icons",
         "description": "Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by Ionic."
-    },
-    {
-        "img_src": "",
-        "url": "https://icons.getbootstrap.com/",
-        "name": "Bootstrap Icons",
-        "description": "Free, high quality, open source icon library with over 1,600 icons."
     }
 ]

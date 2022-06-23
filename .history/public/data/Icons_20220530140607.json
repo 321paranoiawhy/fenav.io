@@ -105,36 +105,6 @@
         "img_src": "",
         "url": "https://feathericons.com/",
         "name": "Feather",
-        "description": "Simply beautiful open source icons."
-    },
-    {
-        "img_src": "",
-        "url": "https://fontawesome.com/",
-        "name": "Font Awesome",
-        "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators."
-    },
-    {
-        "img_src": "",
-        "url": "https://heroicons.dev/",
-        "name": "Hero Icons",
-        "description": "A set of 450+ free MIT-licensed high-quality SVG icons for you to use in your web projects. Available as basic SVG icons and via first-party React and Vue libraries."
-    },
-    {
-        "img_src": "",
-        "url": "https://css.gg/",
-        "name": "CSS Icons",
-        "description": "Open-source CSS, SVG and Figma UI Icons. Available in SVG Sprite, styled-components, NPM & API."
-    },
-    {
-        "img_src": "",
-        "url": "https://ionic.io/ionicons",
-        "name": "ionicons",
-        "description": "Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by Ionic."
-    },
-    {
-        "img_src": "",
-        "url": "https://icons.getbootstrap.com/",
-        "name": "Bootstrap Icons",
-        "description": "Free, high quality, open source icon library with over 1,600 icons."
+        "description": "Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 5000+ new assets added every day. Integrated plugins, tools, editors, and more."
     }
 ]

@@ -78,7 +78,7 @@ export default {
             // 边界处理
             this.currentPage < 1
                 ? (this.currentPage = 1)
-                : this.currentPage > this.totalPages
+                : this.currentPage === this.totalPages
                 ? (this.currentPage = this.totalPages)
                 : "";
         },

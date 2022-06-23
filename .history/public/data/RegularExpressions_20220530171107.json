@@ -1,0 +1,38 @@
+[
+    {
+        "img_src": "",
+        "url": "https://regexper.com/",
+        "name": "Regexper",
+        "description": "Regular expression visualizer using railroad diagrams."
+    },
+    {
+        "img_src": "",
+        "url": "https://regexr.com/",
+        "name": "regexr",
+        "description": "Regular expression tester with syntax highlighting, PHP / PCRE & JS Support, contextual help, cheat sheet, reference, and searchable community patterns."
+    },
+    {
+        "img_src": "",
+        "url": "https://www.regular-expressions.info/",
+        "name": "Regular-Expressions",
+        "description": "The Premier website about Regular Expressions which you can find everything you need to know about regular expressions."
+    },
+    {
+        "img_src": "",
+        "url": "https://regex101.com/",
+        "name": "Regular-Expressions",
+        "description": "Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP / PCRE, Python, GO, JavaScript, Java, C#/.NET."
+    },
+    {
+        "img_src": "",
+        "url": "https://regexlearn.com/",
+        "name": "RegexLearn",
+        "description": "Learn Regex step by step, from zero to advanced."
+    },
+    {
+        "img_src": "",
+        "url": "https://extendsclass.com/regex-tester.html",
+        "name": "CyrilEx Regex Tester",
+        "description": "An online visual regex tester and debugger."
+    }
+]
