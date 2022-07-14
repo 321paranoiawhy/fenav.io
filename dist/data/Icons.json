@@ -1,0 +1,140 @@
+[
+    {
+        "img_src": "",
+        "url": "https://fonts.google.com/icons?selected=Material+Icons",
+        "name": "Google Material Design Icons",
+        "description": "Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics."
+    },
+    {
+        "img_src": "",
+        "url": "https://icones.js.org/",
+        "name": "Icones",
+        "description": "Icon Explorer with Instant searching, powered by Iconify."
+    },
+    {
+        "img_src": "",
+        "url": "https://fontisto.com/",
+        "name": "Fontisto",
+        "description": "Fontisto the iconic font and css toolkit · 616+ free icons."
+    },
+    {
+        "img_src": "",
+        "url": "https://icons8.cn/",
+        "name": "Icons8",
+        "description": "Icons, illustrations, photos, music, and design tools."
+    },
+    {
+        "img_src": "",
+        "url": "https://www.iconfont.cn/",
+        "name": "Iconfont",
+        "description": "Powered by alimama."
+    },
+    {
+        "img_src": "",
+        "url": "https://www.flaticon.com/",
+        "name": "Flaticon",
+        "description": "Download free icons and stickers for your projects."
+    },
+    {
+        "img_src": "",
+        "url": "https://simpleicons.org/",
+        "name": "Simple Icons",
+        "description": "Many Free SVG icons for popular brands."
+    },
+    {
+        "img_src": "IconFinder",
+        "url": "https://www.iconfinder.com/",
+        "name": "Iconfinder",
+        "description": "confinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format."
+    },
+    {
+        "img_src": "IconShock",
+        "url": "https://www.iconshock.com/",
+        "name": "Iconshock",
+        "description": "Iconfinder is the world's largest marketplace for icons, illustrations and 3D illustrations in SVG, AI, and PNG format."
+    },
+    {
+        "img_src": "",
+        "url": "https://mui.com/zh/material-ui/material-icons/",
+        "name": "Material icons",
+        "description": "2,000+ React Material icons ready-to-use from the official website."
+    },
+    {
+        "img_src": "Streamline",
+        "url": "https://www.streamlinehq.com/",
+        "name": "Streamline",
+        "description": "100,000 icons, illustrations and emoji for all your projects. Customize them to your brand in seconds."
+    },
+    {
+        "img_src": "UXWing",
+        "url": "https://uxwing.com/",
+        "name": "UXWing",
+        "description": "Exclusive collection of free icons download for commercial projects without attribution."
+    },
+    {
+        "img_src": "",
+        "url": "https://fontello.com/",
+        "name": "Fontello",
+        "description": "Tool to build custom fonts with icons."
+    },
+    {
+        "img_src": "",
+        "url": "https://isometric.online/",
+        "name": "Isometric",
+        "description": "A collection of free, beautiful, SVG isometric illustrations, that you can use in your website, app or in any project. Search and click to download."
+    },
+    {
+        "img_src": "IconPark",
+        "url": "https://iconpark.oceanengine.com/official",
+        "name": "IconPark",
+        "description": "IconPark gives access to more than 2000 high-quality icons, and introduces an interface for customizing your icons."
+    },
+    {
+        "img_src": "",
+        "url": "https://coreicon.dev/",
+        "name": "Coreicon",
+        "description": "Coreicon library includes 240+ UI icons for web, iOS, Android, and desktop apps."
+    },
+    {
+        "img_src": "",
+        "url": "https://iconscout.com/unicons",
+        "name": "IconScout",
+        "description": "Curated SVGs, Vector Icons, Illustrations, 3D graphics, and Lottie Animations. Over 5000+ new assets added every day. Integrated plugins, tools, editors, and more."
+    },
+    {
+        "img_src": "",
+        "url": "https://feathericons.com/",
+        "name": "Feather",
+        "description": "Simply beautiful open source icons."
+    },
+    {
+        "img_src": "",
+        "url": "https://fontawesome.com/",
+        "name": "Font Awesome",
+        "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators."
+    },
+    {
+        "img_src": "",
+        "url": "https://heroicons.dev/",
+        "name": "Hero Icons",
+        "description": "A set of 450+ free MIT-licensed high-quality SVG icons for you to use in your web projects. Available as basic SVG icons and via first-party React and Vue libraries."
+    },
+    {
+        "img_src": "",
+        "url": "https://css.gg/",
+        "name": "CSS Icons",
+        "description": "Open-source CSS, SVG and Figma UI Icons. Available in SVG Sprite, styled-components, NPM & API."
+    },
+    {
+        "img_src": "",
+        "url": "https://ionic.io/ionicons",
+        "name": "ionicons",
+        "description": "Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by Ionic."
+    },
+    {
+        "img_src": "",
+        "url": "https://icons.getbootstrap.com/",
+        "name": "Bootstrap Icons",
+        "description": "Free, high quality, open source icon library with over 1,600 icons."
+    }
+]
