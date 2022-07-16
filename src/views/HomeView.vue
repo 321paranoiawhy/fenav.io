@@ -167,6 +167,20 @@
                         <div class="description">{{ item.description }}</div>
                     </div>
                 </div>
+                <!-- CodeSandbox -->
+                <p class="divider" id="CodeSandbox">CodeSandbox</p>
+                <div class="main">
+                    <div
+                        v-for="(item, index) in CodeSandbox"
+                        :key="index"
+                        class="card"
+                    >
+                        <a :href="item.url" target="_blank" class="url">{{
+                            item.name
+                        }}</a>
+                        <div class="description">{{ item.description }}</div>
+                    </div>
+                </div>
                 <!-- Algorithms Visualization -->
                 <p class="divider" id="Algorithms Visualization">
                     Algorithms Visualization
@@ -309,6 +323,7 @@ import Icons from "/public/data/Icons.json";
 import UI from "/public/data/UI.json";
 import Measure from "/public/data/Measure.json";
 import { ref } from "@vue/reactivity";
+import { watch } from "vue";
 
 // @ is an alias to /src
 export default {
@@ -364,7 +379,21 @@ export default {
         let currentIndex = ref(0);
         let changeIndex = (index) => {
             currentIndex.value = index;
-            console.log(currentIndex.value);
+        };
+        // 滚动时, 左侧 TOC 也自动跳转
+        window.onscroll = () => {
+            let nodeList = document.getElementsByClassName("divider");
+            let length = nodeList.length;
+            let topLimit = "10";
+            for (let i = 0; i < length; i++) {
+                let node = nodeList[i];
+                let top = node.getBoundingClientRect().top;
+                // console.log(node.getBoundingClientRect().top);
+                if (Math.abs(top) <= Math.abs(topLimit)) {
+                    currentIndex.value = i;
+                    return;
+                }
+            }
         };
         return {
             gotoGitHub,
@@ -436,7 +465,7 @@ $widthAndHeight: 24px;
         align-items: center;
         margin-left: 20px;
         margin-right: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         text-decoration: none;
     }
     & li {
@@ -504,7 +533,6 @@ ul li {
 // 卡片
 .card {
     padding: 15px 0;
-    cursor: pointer;
     border: 4px solid transparent;
     border-radius: 1rem;
     // padding-box (内层)
@@ -543,6 +571,7 @@ ul li {
     }
     // 网站链接文字渐变
     & a {
+        cursor: pointer;
         text-decoration: none;
         background: #0345ff
             linear-gradient(135deg, rgb(3, 69, 255) 0%, rgb(142, 34, 167) 100%);
