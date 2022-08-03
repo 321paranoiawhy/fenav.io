@@ -323,7 +323,6 @@ import Icons from "/public/data/Icons.json";
 import UI from "/public/data/UI.json";
 import Measure from "/public/data/Measure.json";
 import { ref } from "@vue/reactivity";
-import { watch } from "vue";
 
 // @ is an alias to /src
 export default {
